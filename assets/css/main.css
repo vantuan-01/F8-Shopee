@@ -524,6 +524,7 @@
 
 .header__cart-wrap:hover .header__cart-list{
     display: block;
+    z-index: 1;
 }
 
 .header__cart-icon{

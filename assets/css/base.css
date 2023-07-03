@@ -169,6 +169,7 @@ html{
 
 .select-input:hover .select-input__list{
     display: block;
+    z-index: 1;
 }
 
 .select-input__list{
